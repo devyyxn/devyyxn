@@ -25,7 +25,7 @@ I'm a mix of a coder, a tech geek, and a creative artist. I love building things
 ---
 
 ### My Website & Projects (Cause' why not 😉)
-[**Bussiness Website**](https://devnteam.netlify.app/) • [**Vocal Void Studios Website**](https://vocal-void-studios.netlify.app)
+[**Business Website**](https://devnteam.netlify.app/) • [**Vocal Void Studios Website**](https://vocal-void-studios.netlify.app)
 
 ---
 
