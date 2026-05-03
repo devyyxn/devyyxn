@@ -1,42 +1,63 @@
-# Ahoy, I'm devyyxn! 💪🏻
+<h1 align="center">Ahoy 👋, I'm devyyxn!</h1>
 
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Developer+Programmer;Tech+Expert;Digital+Artist;Video+Editor;Web+Editor" alt="Typing SVG" />
+  I develop games, models, UX/UI, web design and more! <br/>
+  Making apps in free time when I'm bored :P
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Developer+%26+Programmer;UX%2FUI+Designer;Digital+Artist;Video+%26+Photo+Editor;Browser+Mod+Creator" alt="Typing SVG" />
 </p>
 
 ---
-I'm a mix of a coder, a tech geek, and a creative artist. I love building things for the web and making cool videos or digital art. Basically, if it involves a screen and some creativity, I'm into it!
+
+## About Me
+
+- I love developing apps, websites, games in free time
+- Into redesigning UX/UI stuffs
+- Currently busy things in my situation, meanwhile keeping a small time for my projects.
 
 ---
 
-### What I do? 🤔
-* **Coding:** Building websites and solving tech problems.
-* **Art:** Creating digital drawings and designs.
-* **Video:** Editing and putting together awesome content.
-* **Learning:** Always trying out new tools and tricks.
+## Skills
+
+| Area | What I Do |
+|---|---|
+| Development | Full-stack dev, native apps, browser extensions & mods |
+| Design | UX/UI design, graphic design |
+| Digital Art | Illustration, photo & video editing, motion graphics |
 
 ---
 
-### My Favorite Tools! (As my hobby)
-**Tech:** HTML, CSS, JavaScript, and anything web-related.  
-**Creative:** Photoshop, Premiere Pro, and After Effects.
+## Toolbox
+**Tech**
+`HTML` `CSS` `JavaScript` `and more...`
+
+**Creative**
+`Photoshop` `Premiere Pro` `After Effects`
+
+**More**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,github,gitlab,nodejs,nextjs,kotlin,js,idea,htmx,html&theme=dark)](https://skillicons.dev)
 
 ---
 
-### My Website & Projects (Cause' why not 😉)
-[**Business Website**](https://devnteam.netlify.app/) • [**Vocal Void Studios Website**](https://vocal-void-studios.netlify.app)
+## Projects
+
+| Project | Link |
+|---|---|
+| Business Website | [devnteam.netlify.app](https://devnteam.netlify.app/) |
+| Vocal Void Studios | [vocal-void-studios.netlify.app](https://vocal-void-studios.netlify.app) |
 
 ---
 
-### Chase me on Social Media! (If you have any question, don't hesitate to chat me up!)
-* **Instagram:** [@devyyxn](https://instagram.com/devyyxn)
-* **Discord:** [@devyyxn](https://discord.gg/853669713800593408)
+## Find Me!
+
+- **Instagram:** [@devyyxn](https://instagram.com/devyyxn)
+- **Discord:** [@devyyxn](https://discord.gg/853669713800593408)
+
+> Got a question or just want to say hi? Don't hesitate to reach out! 😎
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Developer+Programmer;Tech+Expert;Digital+Artist;Video+Editor;Web+Editor" alt="Typing SVG" />
-</p>
-
----
+<p align="center">Made with 🤍 by devyyxn</p>
